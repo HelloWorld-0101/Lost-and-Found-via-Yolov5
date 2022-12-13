@@ -1,5 +1,5 @@
 # Lost-and-Found-via-Yolov5
-This is my preliminary video analysis. This code has a low recognition rate in multi-person scenarios and needs to be improved.
+This is my preliminary video analysis. This code has a low recognition rate in multi-person scenarios and needs to be improved. To save time, I used the official training weight file, and then I could train the model myself if needed.
 
 # Frame Extraction
 In fact, video surveillance is more used to detect remnants in real scenes, and video streaming is based on pictures, so we need to design a detection algorithm for detecting remnants in pictures first.
