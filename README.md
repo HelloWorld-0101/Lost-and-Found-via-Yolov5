@@ -18,5 +18,7 @@ Multi-person scene recognition has not been realized, but if you want to achieve
 
 # References and websites
 Here are some references and websites. I respect every author's work and learn a lot from their ideas.
+
 [1] K. Lin, S. -C. Chen, C. -S. Chen, D. -T. Lin and Y. -P. Hung, "Abandoned Object Detection via Temporal Consistency Modeling and Back-Tracing Verification for Visual Surveillance," in IEEE Transactions on Information Forensics and Security, vol. 10, no. 7, pp. 1359-1370, July 2015, doi: 10.1109/TIFS.2015.2408263. 
+
 [2] GitHub(2022)gamblerInCoding[Source code]. https://github.com/gamblerInCoding/LegacyItems/
