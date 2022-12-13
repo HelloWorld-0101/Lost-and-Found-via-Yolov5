@@ -12,6 +12,9 @@ If the distance between boxes is not maintained within a threshold value, it wil
 # Target Detection - time threshold
 If the distance is greater than the threshold value and remains in this state for a period of time(also can be seen as the number of frames), it can be considered that people and objects are separated and can be identified as left behind. That's the judgment condition.
 
+# Flow chart
+![flowchart](https://user-images.githubusercontent.com/101873329/207322928-66c89194-4aac-4a8b-8a50-26f3afb04780.jpg)
+
 # Areas for improvement
 Multi-person scene recognition has not been realized, but if you want to achieve this, the basic idea should be the same, just need to put the central coordinates of each person in each frame picture into the list, and then the central coordinates of the identified dynamic objects and the list of traversal comparison, should be able to identify the missing items.
 
